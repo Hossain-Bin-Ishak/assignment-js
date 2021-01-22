@@ -57,7 +57,6 @@ function megaFriend(name) {
         if (currentName.length > result.length) {
             result = name[i];
         }
-
     }
     return result;
 }
